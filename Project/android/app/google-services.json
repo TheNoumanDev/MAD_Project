@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "904497988998",
+    "firebase_url": "https://practice0x45-default-rtdb.firebaseio.com",
+    "project_id": "practice0x45",
+    "storage_bucket": "practice0x45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904497988998:android:4200793585a1a9a4fe5807",
+        "android_client_info": {
+          "package_name": "com.example.mad_final_ass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904497988998-6rliqed32sh79ilii5m8ogeidp4o4pt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9j2UfRuDQjC9CXFr1qrVBYUca_Mi2jrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904497988998-6rliqed32sh79ilii5m8ogeidp4o4pt2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904497988998-ggspbn6fojkauhheu4ig1ljmjao9ujg5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.practiceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904497988998:android:a13e69b07ca65f19fe5807",
+        "android_client_info": {
+          "package_name": "com.example.practice_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904497988998-6rliqed32sh79ilii5m8ogeidp4o4pt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9j2UfRuDQjC9CXFr1qrVBYUca_Mi2jrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904497988998-6rliqed32sh79ilii5m8ogeidp4o4pt2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904497988998-ggspbn6fojkauhheu4ig1ljmjao9ujg5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.practiceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
